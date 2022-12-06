@@ -1,0 +1,31 @@
+body{
+	text-align: center;
+	color: #ffffff;
+	background-color: #78cdf5;
+	font-family: Tahoma;
+}
+p{
+	font-family: Microsoft New Tai Lue;
+}
+h1{
+	color: #faf1d9;
+}
+h2{
+	font-family: Corbel;
+}
+table{
+	color: #2e7325;
+	border-style: dotted;
+	border-width: 5px;
+}
+td{
+	padding: 3px;
+	border-style: dashed;
+	border-width: 2px;
+}
+img{
+	opacity: 0.7;
+}
+img:hover{
+	opacity: 1;
+}
